@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageProblem
 {
-    public class Employee
+    public class AttendanceUC1
     {
         public void Attendance()
         {

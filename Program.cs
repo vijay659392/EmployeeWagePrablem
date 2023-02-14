@@ -10,9 +10,12 @@ namespace EmployeeWageProblem
     {
         public static void Main(string[] args)
         {
-            Employee empWage = new Employee();
-            empWage.Attendance();
-            Console.ReadLine();
+            //AttendanceUC1 empWage = new AttendanceUC1();
+            //empWage.Attendance();
+
+            EmployeeWageMonthUC3.EmpComputation();
+
+            //EmployeeWorkingHours.EmpComputation();
         }
     }
 }
